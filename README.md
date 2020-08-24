@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello World 👋 I'm Brenda Moreira✨
 
+## About Me
+- 🐶 Dog lover
+- 👩🏻‍💻 Girl Programmer
+- 🌱 I’m currently learning Vue.js
+- 💭 Thinking out of the box 📦
+- 🧠 Always seeking for knowledge
+
+## How to reach me
+- 📨 brendanatalia94@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/brenda-moreiralima/)
 <!--
 **brendamoreira/brendamoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
